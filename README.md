@@ -1,10 +1,9 @@
 ## 📘 Supplementary Material (Velocity Model via RF Modeling)
 
-# [cite_start]Detailed Seismic Structure Beneath the Opak Fault Zone, Yogyakarta, Indonesia: Evidence for an Interconnected Fault System and Implications for Seismic Hazard [cite: 1]
+# Detailed Seismic Structure Beneath the Opak Fault Zone, Yogyakarta, Indonesia: Evidence for an Interconnected Fault System and Implications for Seismic Hazard 
 
-[cite_start]**Authors:** Rahmat Setyo Yuliatmoko, Wiwit Suryanto, Mochamad Nukman, Muzli Muzli, [cite: 2] [cite_start]Ayu Krisno Ekarsti, Virga Librian, Mohamad Ramdhan, Andry Syaly Sembiring, [cite: 3] [cite_start]Muhajir Anshori, Dwikorita Karnawati [cite: 4]
+**Authors:** Rahmat Setyo Yuliatmoko, Wiwit Suryanto, Mochamad Nukman, Muzli Muzli, [cite: 2] [cite_start]Ayu Krisno Ekarsti, Virga Librian, Mohamad Ramdhan, Andry Syaly Sembiring, [cite: 3] [cite_start]Muhajir Anshori, Dwikorita Karnawati
 
-## [cite_start]Supplementary: [cite: 5]
 
 ![Histogram of Travel Time Residuals](Figure/Picture1.png) **Figure 1.** Histogram of Travel Time Residuals [cite: 6]
 * [cite_start]**Figure 2.** The initial CKB model and recovery CKB for each horizontal slice [cite: 7]
