@@ -7,15 +7,15 @@
 
 ![Histogram of Travel Time Residuals](Figure/Picture1.png) **Figure 1.** Histogram of Travel Time Residuals 
 ![Histogram of Travel Time Residuals](Figure/Picture2.png)**Figure 2.** The initial CKB model and recovery CKB for each horizontal slice 
-* [cite_start]**Figure 3:** Vertical Cross Section of the Chessboard Resolution Test from West to East (AA' to E–E′) [cite: 8]
-* [cite_start]**Figure 4** shows the horizontal cross-section of the DWS component Vs at a depth of 0–30 km. [cite: 9]
-* [cite_start]**Figure 5** shows a horizontal cross-sectional view of the DWS Vp/Vs component at a depth of 0–30 km. [cite: 10]
-* [cite_start]**Figure 6.** Horizontal tomogram of the Vp component at a depth of 0–30 km. [cite: 11]
-* [cite_start]**Figure 7** shows a horizontal tomogram of the Vs component at depths ranging from 0 to 30 km. [cite: 12]
-* [cite_start]**Figure 8** shows a horizontal tomogram of the Vp/Vs component over the depth range 0-30 km. [cite: 13]
-* [cite_start]**Figure 9** Cross-section tomogram lines from F-F′ to J-J′ display vertical profiles of Vp, Vs, and Vp/Vs tomograms. [cite: 14] [cite_start]The Vp data is on the left, Vs in the centre, and Vp/Vs on the right. [cite: 15]
+![Histogram of Travel Time Residuals](Figure/Picture3.png)**Figure 3:** Vertical Cross Section of the Chessboard Resolution Test from West to East (AA' to E–E′)
+![Histogram of Travel Time Residuals](Figure/Picture4.png)**Figure 4** shows the horizontal cross-section of the DWS component Vs at a depth of 0–30 km. 
+![Histogram of Travel Time Residuals](Figure/Picture5.png)**Figure 5** shows a horizontal cross-sectional view of the DWS Vp/Vs component at a depth of 0–30 km. 
+![Histogram of Travel Time Residuals](Figure/Picture6.png)**Figure 6.** Horizontal tomogram of the Vp component at a depth of 0–30 km. 
+![Histogram of Travel Time Residuals](Figure/Picture7.png)**Figure 7** shows a horizontal tomogram of the Vs component at depths ranging from 0 to 30 km. 
+![Histogram of Travel Time Residuals](Figure/Picture8.png)**Figure 8** shows a horizontal tomogram of the Vp/Vs component over the depth range 0-30 km. 
+![Histogram of Travel Time Residuals](Figure/Picture9.png)**Figure 9** Cross-section tomogram lines from F-F′ to J-J′ display vertical profiles of Vp, Vs, and Vp/Vs tomograms. The Vp data is on the left, Vs in the centre, and Vp/Vs on the right.
 
-### [cite_start]TABLE 1: Results of Receiver Function Calculations in Yogyakarta [cite: 16]
+### TABLE 1: Results of Receiver Function Calculations in Yogyakarta
 
 | Station | Longitude | Latitude | H (Meter) | Crustel (Km) | Vp/VS (km/s) |
 |---|---|---|---|---|---|
