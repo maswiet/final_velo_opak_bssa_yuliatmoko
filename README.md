@@ -2,7 +2,7 @@
 
 # Detailed Seismic Structure Beneath the Opak Fault Zone, Yogyakarta, Indonesia: Evidence for an Interconnected Fault System and Implications for Seismic Hazard 
 
-**Authors:** Rahmat Setyo Yuliatmoko, Wiwit Suryanto, Mochamad Nukman, Muzli Muzli, [cite: 2] [cite_start]Ayu Krisno Ekarsti, Virga Librian, Mohamad Ramdhan, Andry Syaly Sembiring, [cite: 3] [cite_start]Muhajir Anshori, Dwikorita Karnawati
+**Authors:** Rahmat Setyo Yuliatmoko, Wiwit Suryanto, Mochamad Nukman, Muzli Muzli, Ayu Krisno Ekarsti, Virga Librian, Mohamad Ramdhan, Andry Syaly Sembiring, Muhajir Anshori, Dwikorita Karnawati
 
 
 ![Histogram of Travel Time Residuals](Figure/Picture1.png) **Figure 1.** Histogram of Travel Time Residuals [cite: 6]
