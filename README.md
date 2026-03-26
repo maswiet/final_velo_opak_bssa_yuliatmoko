@@ -5,8 +5,8 @@
 **Authors:** Rahmat Setyo Yuliatmoko, Wiwit Suryanto, Mochamad Nukman, Muzli Muzli, Ayu Krisno Ekarsti, Virga Librian, Mohamad Ramdhan, Andry Syaly Sembiring, Muhajir Anshori, Dwikorita Karnawati
 
 
-![Histogram of Travel Time Residuals](Figure/Picture1.png) **Figure 1.** Histogram of Travel Time Residuals [cite: 6]
-* [cite_start]**Figure 2.** The initial CKB model and recovery CKB for each horizontal slice [cite: 7]
+![Histogram of Travel Time Residuals](Figure/Picture1.png) **Figure 1.** Histogram of Travel Time Residuals 
+![Histogram of Travel Time Residuals](Figure/Picture2.png)**Figure 2.** The initial CKB model and recovery CKB for each horizontal slice 
 * [cite_start]**Figure 3:** Vertical Cross Section of the Chessboard Resolution Test from West to East (AA' to E–E′) [cite: 8]
 * [cite_start]**Figure 4** shows the horizontal cross-section of the DWS component Vs at a depth of 0–30 km. [cite: 9]
 * [cite_start]**Figure 5** shows a horizontal cross-sectional view of the DWS Vp/Vs component at a depth of 0–30 km. [cite: 10]
